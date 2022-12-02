@@ -46,7 +46,7 @@ body{
 	border-radius:10px;
 	padding-left:10px;
 	font-weight:bold;
-	
+	padding-bottom:30px;
 }
 
 #Taken{
@@ -138,6 +138,7 @@ body{
 	border-radius:10px;
 	padding-left:10px;
 	opacity:0.5;
+	padding-bottom:30px;
 }
 
 h2{
@@ -149,7 +150,6 @@ h2{
 }
 #ContactGegevens{
 	color:black;
-	padding-top:30px;
 	padding-left:10px;
 	font-weight:bold;
 }
