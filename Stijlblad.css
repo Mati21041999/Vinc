@@ -15,7 +15,7 @@ header{
 /*Achtergrond header links*/
 #header-background{
 	text-indent:33%;
-	background:url('/LogoBedrijf.jpg');
+	background:url('LogoBedrijf.jpg');
 	background-repeat:no-repeat;
 	mix-blend-mode:multiply;
 	height:190px;
@@ -26,7 +26,7 @@ body{
 	text-align:center;
 	width:480px;
 	margin: auto;
-	background:url('/achtergrondwit.png');
+	background:url('achtergrondwit.png');
 	background-size:100%;
 	}
 
@@ -83,7 +83,7 @@ header{
 /*Achtergrond header links*/
 #header-background{
 	
-	background:url('/LogoBedrijf.jpg');
+	background:url('LogoBedrijf.jpg');
 	background-repeat:no-repeat;
 	mix-blend-mode:multiply;
 	height:190px;
@@ -94,7 +94,7 @@ body{
 	text-align:center;
 	width:480px;
 	margin: auto;
-	background:url('/achtergrondwit.png');
+	background:url('achtergrondwit.png');
 	background-size:100%;
 	}
 
