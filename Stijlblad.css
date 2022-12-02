@@ -52,7 +52,7 @@ body{
 #Taken{
 	border: 3px solid lightblue;
 	width:320px;
-    height:auto;
+        height:auto;
 	background-color:140FBE;
 	color:white;
 	border-radius:10px;
@@ -67,14 +67,9 @@ h2{
 	margin-bottom:2px;
 	border-radius:10px;
 }
-	#ContactGegevens{
-	color:black;
-	padding-top:30px;
-	padding-left:10px;
-	font-weight:bold;
-}
 #ContactGegevens{
 	color:black;
+	padding-left:10px;
 	font-weight:bold;
 	border-top:solid;
 }
@@ -113,7 +108,7 @@ body{
 /*opmaak missie*/
 #missie{
 	width:auto;
-    height:auto;
+    	height:auto;
 	color:black;
 	padding-left:10px;
 	font-weight:bold;
@@ -121,24 +116,24 @@ body{
 /*opmaak visie*/
 #visie{
 	width:auto;
-    height:auto;
+    	height:auto;
 	color:black;
 	border-radius:10px;
 	padding-left:10px;
 	font-weight:bold;
-	
+	padding-bottom:30px;
 }
 
 #Taken{
 	border: 3px solid lightblue;
 	width:320px;
-    height:auto;
+   	height:auto;
 	background-color:140FBE;
 	color:white;
 	border-radius:10px;
 	padding-left:10px;
 	opacity:0.5;
-	padding-bottom:30px;
+	
 }
 
 h2{
@@ -148,14 +143,10 @@ h2{
 	margin-bottom:2px;
 	border-radius:10px;
 }
-#ContactGegevens{
-	color:black;
-	padding-left:10px;
-	font-weight:bold;
-}
 	
 #ContactGegevens{
 	color:black;
+	padding-left:10px;
 	font-weight:bold;
 	border-top:solid;
 }
