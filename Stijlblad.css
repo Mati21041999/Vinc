@@ -1,24 +1,21 @@
 @media only screen and (max-width: 768px)
 {
-	html{
+	/*Opmaak html*/
+html{
 	font-family:"Myriad Pro", Helvetica, Arial, sans-serif
 }
+
 /*Opmaak header*/
-html{
-	font-family:serif;
-}
 header{
 	color:black;
 	text-align:left;
 	font-size:250%;
 	text-shadow: 4px 4px 4px gray;
-	
-
 } 
 /*Achtergrond header links*/
 #header-background{
 	text-indent:33%;
-	background:url('LogoBedrijf.jpg');
+	background:url('Fotos/LogoBedrijf.jpg');
 	background-repeat:no-repeat;
 	mix-blend-mode:multiply;
 	height:190px;
@@ -29,7 +26,7 @@ body{
 	text-align:center;
 	width:480px;
 	margin: auto;
-	background:url('achtergrondwit.png');
+	background:url('Fotos/achtergrondwit.png');
 	background-size:100%;
 	}
 
@@ -44,17 +41,17 @@ body{
 /*opmaak visie*/
 #visie{
 	width:auto;
-    	height:auto;
+    height:auto;
 	color:black;
 	border-radius:10px;
 	padding-left:10px;
 	font-weight:bold;
-	padding-bottom:30px;
+	
 }
 
 #Taken{
 	width:auto;
-    	height:auto;
+    height:auto;
 	color:black;
 	border-radius:10px;
 	padding-left:10px;
@@ -69,16 +66,18 @@ h2{
 	margin-bottom:2px;
 	border-radius:10px;
 }
+
 #ContactGegevens{
 	color:black;
+	padding-top:30px;
+	padding-left:10px;
 	font-weight:bold;
-	border-top:solid;
 }
-	
 }
 
 @media only screen and (min-width: 769px)
 {
+	/*Opmaak html*/
 	html{
 	font-family:"Myriad Pro", Helvetica, Arial, sans-serif
 }
@@ -94,7 +93,7 @@ header{
 /*Achtergrond header links*/
 #header-background{
 	
-	background:url('LogoBedrijf.jpg');
+	background:url('Fotos/LogoBedrijf.jpg');
 	background-repeat:no-repeat;
 	mix-blend-mode:multiply;
 	height:190px;
@@ -103,16 +102,16 @@ header{
 /*Opmaak body*/
 body{
 	text-align:center;
-	width:480px;
+	width:640px;
 	margin: auto;
-	background:url('achtergrondwit.png');
+	background:url('Fotos/achtergrondwit.png');
 	background-size:100%;
 	}
 
 /*opmaak missie*/
 #missie{
 	width:auto;
-    	height:auto;
+    height:auto;
 	color:black;
 	padding-left:10px;
 	font-weight:bold;
@@ -120,7 +119,7 @@ body{
 /*opmaak visie*/
 #visie{
 	width:auto;
-    	height:auto;
+    height:auto;
 	color:black;
 	border-radius:10px;
 	padding-left:10px;
@@ -130,13 +129,12 @@ body{
 
 #Taken{
 	width:auto;
-    	height:auto;
+    height:auto;
 	color:black;
 	border-radius:10px;
 	padding-left:10px;
 	font-weight:bold;
 	padding-bottom:30px;
-	
 }
 
 h2{
@@ -146,10 +144,27 @@ h2{
 	margin-bottom:2px;
 	border-radius:10px;
 }
-	
+
 #ContactGegevens{
 	color:black;
 	font-weight:bold;
-	border-top:solid;
+	font-size:20px;
 }
+.Links{
+	font-size:25px;
+	width:auto;
+    height:auto;
+	color:white;
+	padding-left:10px;
+	font-weight:bold;
+}
+h3{
+	background-color:black;
+	border-radius:10px;
+	text-align:center;
+}
+#ContactGegevensFooder{
+	color:black;
+	font-weight:bold;
+	border-top:solid;
 }
