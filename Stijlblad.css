@@ -80,7 +80,7 @@ h2{
 	/*Opmaak html*/
 	html{
 	font-family:"Myriad Pro", Helvetica, Arial, sans-serif
-}
+
 /*Opmaak header*/
 header{
 	color:black;
@@ -167,4 +167,5 @@ h3{
 	color:black;
 	font-weight:bold;
 	border-top:solid;
+}
 }
