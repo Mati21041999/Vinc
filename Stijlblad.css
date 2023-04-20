@@ -3,6 +3,7 @@
 	/*Opmaak html*/
 html{
 	font-family:"Myriad Pro", Helvetica, Arial, sans-serif
+	}
 
 
 /*Opmaak header*/
@@ -74,13 +75,14 @@ h2{
 	font-weight:bold;
 }
 }
-}
+
 
 @media only screen and (min-width: 769px)
 {
 	/*Opmaak html*/
 	html{
 	font-family:"Myriad Pro", Helvetica, Arial, sans-serif
+	}
 
 /*Opmaak header*/
 header{
@@ -168,6 +170,5 @@ h3{
 	color:black;
 	font-weight:bold;
 	border-top:solid;
-}
 }
 }
