@@ -14,6 +14,12 @@ header{
 	text-shadow: 4px 4px 4px gray;
 } 
 	
+#Titel
+{
+	position: relative;
+	top: 60px;
+}
+	
 h1{
 	color:black;
 	text-align:left;
@@ -105,6 +111,13 @@ header{
 	
 
 } 
+	
+#Titel
+{
+	position: relative;
+	top: 60px;
+}
+	
 /*Achtergrond header links*/
 #header-background{
 	
