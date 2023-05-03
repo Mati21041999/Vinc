@@ -42,6 +42,9 @@ body{
 	margin: auto;
 	background:url('achtergrondwit.png');
 	background-size:100%;
+	min-height: 100vh;
+    	display: flex;
+    	flex-direction: column;
 	}
 
 /*opmaak missie*/
@@ -92,6 +95,11 @@ h2{
 	padding-left:10px;
 	font-weight:bold;
 }
+	
+footer{
+	 margin-top: auto;	
+	}
+	
 }
 
 
@@ -134,6 +142,9 @@ body{
 	margin: auto;
 	background:url('achtergrondwit.png');
 	background-size:100%;
+	min-height: 100vh;
+    	display: flex;
+    	flex-direction: column;
 	}
 
 /*opmaak missie*/
@@ -196,4 +207,7 @@ h3{
 	font-weight:bold;
 	border-top:solid;
 }
+	footer{
+	 margin-top: auto;	
+	}
 }
