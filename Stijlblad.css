@@ -38,7 +38,7 @@ h1{
 /*Opmaak body*/
 body{
 	text-align:center;
-	width:480px;
+	width:400px;
 	margin: auto;
 	background:url('achtergrondwit.png');
 	background-size:100%;
@@ -49,15 +49,15 @@ body{
 
 /*opmaak missie*/
 #missie{
-	width:auto;
-    height:auto;
+	width:70%;
+    	height:auto;
 	color:black;
 	padding-left:10px;
 	font-weight:bold;
 }
 /*opmaak visie*/
 #visie{
-	width:200px;
+	width:70%;
     	height:auto;
 	color:black;
 	border-radius:10px;
