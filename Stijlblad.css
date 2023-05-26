@@ -1,17 +1,18 @@
 @media only screen and (max-width: 768px)
 {
 	/*Opmaak html*/
-html{
+	html{
 	font-family:"Myriad Pro", Helvetica, Arial, sans-serif
 	}
-
 
 /*Opmaak header*/
 header{
 	color:black;
-	text-align:left;
+	text-align:center;
 	font-size:250%;
 	text-shadow: 4px 4px 4px gray;
+	
+
 } 
 	
 #Titel
@@ -20,15 +21,9 @@ header{
 	top: 60px;
 }
 	
-h1{
-	color:black;
-	text-align:left;
-	font-size:250%;
-	text-shadow: 4px 4px 4px gray;
-	}
 /*Achtergrond header links*/
 #header-background{
-	text-indent:33%;
+	
 	background:url('LogoBedrijf.jpg');
 	background-repeat:no-repeat;
 	mix-blend-mode:multiply;
@@ -38,7 +33,7 @@ h1{
 /*Opmaak body*/
 body{
 	text-align:center;
-	width:400px;
+	width:auto;
 	margin: auto;
 	background:url('achtergrondwit.png');
 	background-size:100%;
@@ -50,7 +45,7 @@ body{
 /*opmaak missie*/
 #missie{
 	width:70%;
-    	height:auto;
+    height:auto;
 	color:black;
 	padding-left:10px;
 	font-weight:bold;
@@ -58,17 +53,17 @@ body{
 /*opmaak visie*/
 #visie{
 	width:70%;
-    	height:auto;
+    height:auto;
 	color:black;
 	border-radius:10px;
 	padding-left:10px;
 	font-weight:bold;
-	
+	padding-bottom:30px;
 }
 
 #Taken{
 	width:auto;
-    height:auto;
+    	height:auto;
 	color:black;
 	border-radius:10px;
 	padding-left:10px;
@@ -83,10 +78,11 @@ h2{
 	margin-bottom:2px;
 	border-radius:10px;
 }
-	h3{
-	background-color:black;
-	border-radius:10px;
-	text-align:center;
+
+#ContactGegevens{
+	color:black;
+	font-weight:bold;
+	font-size:20px;
 }
 .Links{
 	font-size:25px;
@@ -96,18 +92,19 @@ h2{
 	padding-left:10px;
 	font-weight:bold;
 }
-
-#ContactGegevens{
-	color:black;
-	padding-top:30px;
-	padding-left:10px;
-	font-weight:bold;
+h3{
+	background-color:black;
+	border-radius:10px;
+	text-align:center;
 }
-	
-footer{
+#ContactGegevensFooder{
+	color:black;
+	font-weight:bold;
+	border-top:solid;
+}
+	footer{
 	 margin-top: auto;	
 	}
-	
 }
 
 
