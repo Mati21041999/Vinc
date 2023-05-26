@@ -47,7 +47,6 @@ body{
 	width:70%;
     	height:auto;
 	color:black;
-	padding-left:10px;
 	font-weight:bold;
 	text-align:center;
 }
@@ -57,7 +56,6 @@ body{
     height:auto;
 	color:black;
 	border-radius:10px;
-	padding-left:10px;
 	font-weight:bold;
 	padding-bottom:30px;
 	text-align:center;
